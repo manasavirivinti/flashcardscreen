@@ -1,4 +1,3 @@
-# Flashcard-Screen
 
 # Title Flashcard Screen
 
@@ -12,9 +11,9 @@ ReactJS,CSS,NodeJS,Express,MySQL,Sequelize
 ## Features
 
 -User can perform the following operations
--Add a new card : A new flash card containing details such as purpose name, purpose details can be seen on the flashcard screen
--Edit the card : After adding a particular card user can edit the card by clicking on : symbol on the card
--Delete the card : If the user want's to delete the card then he can do it by choose the delete option by clicking : on the right corner of the card
+- Add a new card : A new flash card containing details such as purpose name, purpose details can be seen on the flashcard screen
+- Edit the card : After adding a particular card user can edit the card by clicking on : symbol on the card
+- Delete the card : If the user want's to delete the card then he can do it by choose the delete option by clicking : on the right corner of the card
 
 # Instructions to RUN
 ## Getting started with Create React App
@@ -46,7 +45,7 @@ On starting the node package manager (npm start) your browser will automatically
 ## Cards
 Contains list of cards added.\
 We can perform the following operations.\
--Add a new card
--Delete a card(if user required)
+- Add a new card
+- Delete a card(if user required)
 ## Newcard
--Conatins a form where we input our new card along with the details and submit it by clicking it on 'submit' button
+- Conatins a form where we input our new card along with the details and submit it by clicking it on 'submit' button
