@@ -1,6 +1,14 @@
-.lead{
+.lead1{
+    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
+    color: rgb(50, 145, 234);
+    text-shadow: 2px 2px 5px rgb(56, 71, 237);
+}
+.lead2
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
     color: rgb(189, 246, 246);
 }
 .image1

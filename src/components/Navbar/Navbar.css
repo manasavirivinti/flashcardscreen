@@ -1,4 +1,8 @@
-
-.navcolor{
-    color: rgb(179, 244, 244);
+.navimg{
+    border-radius: 25px;
+  border: 2px solid #f5f7f1;
+  
+}
+.navcolors{
+    background-color: rgb(122, 113, 117);
 }

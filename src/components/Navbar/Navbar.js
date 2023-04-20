@@ -15,7 +15,7 @@ function NavigationBar() {
       fontSize: "1.2rem",
     };
     return (
-      <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-sm navcolors">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             <img
@@ -23,6 +23,7 @@ function NavigationBar() {
               width="80px"
               className="shadow"
               alt=""
+              class="navimg"
             />
           </a>
           <button

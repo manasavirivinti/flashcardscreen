@@ -4,8 +4,8 @@ import "./Home.css";
 function Home() {
   return (
     <div className="text-center">
-      <p className="display-2 lead text-dark">FlashCard Screen</p>
-      <p className="lead ">
+      <p className="display-2 lead1">FlashCard Screen</p>
+      <p className="lead2 ">
       A flashcard or flash card (also known as an index card) is a card bearing information on both sides, which is intended to be 
       used as an aid in memorization. Each flashcard bears a question on one side and an answer on the other. Flashcards are often
        used to memorize vocabulary, historical dates, formulae or any subject matter that can be learned via a question-and-answer
@@ -16,7 +16,7 @@ function Home() {
         spaced repetition software programs exist which take advantage of this principle.
       </p>
       <img
-        src="https://media4.giphy.com/media/l0EoBRrHj3ClWLzRm/giphy.gif?cid=ecf05e47g0tce9snduukrnl1ehv8u2ctsbutpizu446kgmf8&rid=giphy.gif&ct=g"
+        src="https://media2.giphy.com/media/3o6vXLMQP2SQluZHgs/giphy.gif?cid=ecf05e4788nl802ekh0bti80wtdqoul9x513yur8dwpd6evv&rid=giphy.gif&ct=g"
         width="350px"
         class="image1"
         />
