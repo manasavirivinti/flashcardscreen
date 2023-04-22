@@ -7,10 +7,10 @@ body {
   font-family: 'Barlow Condensed', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('https://tse3.mm.bing.net/th?id=OIP.HLnQK34OYlqaAhXFgTV_8AHaEo&pid=Api&P=0');
+  background-image: url('https://wallpapertag.com/wallpaper/full/9/5/4/117454-amazing-aesthetic-backgrounds-1920x1200-for-full-hd.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
+  min-height: 100vh;
 }
 
 code {

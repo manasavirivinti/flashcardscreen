@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+
+
+.Cards{
+    font-family:'Barlow Condensed', sans-serif;
+}
+.card{
+    background-image: linear-gradient(rgb(146, 232, 233),rgb(176, 239, 233))
+}
+.name{
+    color: #109fdc;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.lead{
+    font-weight: bold;
+}

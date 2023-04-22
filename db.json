@@ -1,0 +1,30 @@
+{
+  "cards": [
+    {
+      "Question": "mv",
+      "Answer": "mv direct",
+      "id": 1
+    },
+    {
+      "Question": "ls",
+      "Answer": "lists all the contents of .....",
+      "id": 2
+    },
+    {
+      "Question": "mkdir",
+      "Answer": "create a directory",
+      "id": 3
+    },
+    {
+      "Question": "cp",
+      "Answer": "copy",
+      "id": 4
+    },
+    {
+      "Question": "Songs",
+      "Answer": "listen to the music listed below.....",
+      "id": 5
+    }
+  ],
+  "removedCards": []
+}

@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React from "react";
 import "./Navbar.css";
 import { NavLink } from "react-router-dom";
 
@@ -21,9 +21,8 @@ function NavigationBar() {
             <img
               src="https://tse4.mm.bing.net/th?id=OIP.BssJyMMZoiycyDPiPtq6DgHaE8&pid=Api&P=0"
               width="80px"
-              className="shadow"
               alt=""
-              class="navimg"
+              className="navimg"
             />
           </a>
           <button

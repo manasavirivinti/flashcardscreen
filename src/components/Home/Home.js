@@ -15,11 +15,7 @@ function Home() {
         which a flashcard-user learns, and proper spacing of flashcards has been proven to accelerate learning. A number of 
         spaced repetition software programs exist which take advantage of this principle.
       </p>
-      <img
-        src="https://media2.giphy.com/media/3o6vXLMQP2SQluZHgs/giphy.gif?cid=ecf05e4788nl802ekh0bti80wtdqoul9x513yur8dwpd6evv&rid=giphy.gif&ct=g"
-        width="350px"
-        class="image1"
-        />
+      
     </div>
   );
 }

@@ -4,6 +4,7 @@ import RootLayout from './components/RootLayout'
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
 import Widgets from './components/Widgets/Widgets';
+import Calender from './components/Calender/Calender';
 
 function App() {
   const browserRouter=createBrowserRouter([
@@ -20,10 +21,13 @@ function App() {
           element:<Navbar />
         },
         {
-          path:"/Widgtes",
+          path:"/Widgets",
           element:<Widgets />
         },
-        
+        {
+          path:"/Calender",
+          element:<Calender />
+        },
       ]
     }
   ])
